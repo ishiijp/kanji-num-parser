@@ -1,0 +1,6 @@
+target
+.idea
+.idea_modules
+project/boot
+project/target
+project/plugins/target
